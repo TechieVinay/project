@@ -1,0 +1,49 @@
+https://github.com/TechieVinay/GitHubTest.git
+
+https://github.com/bhasker-manikyala/game-of-life
+
+
+git branch feature 
+git checkout -b feature 
+gir branch -d feature 
+
+git diff master feature 
+
+git stash --help 
+
+21:37: 1003  git remote add origin "https://github.com/bhasker-manikyala/repo.git"
+ 1004  git remote -v
+ 1005  git branch
+ 1006  git checkout master
+ 1007  ls
+ 1008  git branch
+ 1009  git push origin master
+ 1010  pwd
+ 1011  ls
+ 1012  git remote -v
+ 1013  git log --oneline
+ 1014  git checkout feature
+ 1015  ls
+ 1016  git push origin feature
+ 1017  git remote -v
+ 1018  git pull origin master
+ 1019  git  branch
+ 1020  git checkout master
+ 1021  ls
+ 1022  git log --oneline
+ 1023  mkdir /remote-project
+ 1024  cd /remote-project/
+ 1025  git clone https://github.com/bhasker-manikyala/game-of-life.git
+ 1026  pwd
+ 1027  ls
+ 1028  cd game-of-life/
+ 1029  ls
+ 1030  git branch -a
+ 1031  pwd
+ 1032  ls
+ 1033  ls -al
+ 1034  cd
+ 1035  cd /git-demo/project/
+ 1036  ls
+ 1037  git status
+ 1038  history
